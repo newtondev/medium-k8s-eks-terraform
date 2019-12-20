@@ -15,7 +15,7 @@ At the time of writing this article I am using:
 * Kubernetes on EKS: v1.14.8-eks-b7174d
 
 ### TL;DR
-To get up to quickly:
+To get up and running:
 1. open up the `variables.tf` file, make the changes to match your desired settings
 2. run `terraform init`
 3. run `terraform plan`
